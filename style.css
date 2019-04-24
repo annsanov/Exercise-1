@@ -1,0 +1,156 @@
+body {
+	background: #eee;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+}
+ 
+hr {
+	border:0;
+	background:#dedede;
+	height:1px;
+}		
+ 
+header{
+	text-align: center;
+    color: #232323;
+    background-color: aquamarine;
+}
+.header h1{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #eee;
+}
+h1{
+    text-align: center;
+}
+ 
+header .judul{
+	font-size: 17pt;
+}
+ 
+header .deskripsi{
+	font-size: 11pt;
+}
+ 
+.wrap {
+	width: 950px;
+	margin:25px auto;
+}
+body {
+	background: #eee;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+}
+ 
+hr {
+	border:0;
+	background:#dedede;
+	height:1px;
+}		
+ 
+header{
+	text-align: center;
+	color: #232323;
+}
+ 
+header .judul{
+	font-size: 17pt;
+}
+ 
+header .deskripsi{
+	font-size: 11pt;
+}
+ 
+.wrap {
+	width: 950px;
+    margin:25px auto;
+    background-color: #a83737;
+}
+ 
+.sidebar {
+	float:right;
+	width:275px;
+}
+ 
+.sidebar .box {
+	padding:25px;
+	margin:0 0 25px;
+	background:#fff;
+	border-bottom: 2px solid #fff;
+	transition: all 0.5s ease;
+}
+ 
+.sidebar .box:hover {
+	border-bottom: 2px solid #efb8b8;
+}
+ 
+.sidebar .box h2 {
+	padding:0;
+	margin:0 0 15px;
+	color:#d66f6f;
+	font-size: 18px;
+	font-weight:800;
+}
+ 
+.sidebar .box p {
+	font-size: 14px;
+}
+ 
+.sidebar .box p:last-child {
+	margin:0;
+}
+.box img{
+    
+    width: 30px;
+}
+.main {
+	float:left;
+}
+ 
+.contenteudo {
+	width:600px;
+	padding:25px;
+	margin:25px auto;
+	background: #fff;
+	border:1px solid #dedede;
+	-webkit-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.35);
+	-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.35);
+	box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.35);
+}
+ 
+.content img {
+	min-width: 600px;
+	margin: auto;
+    max-width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+ 
+.content h1 {
+	padding:0;
+	margin:0 0 15px;
+	font-weight: normal;
+	color: #666;
+    font-family: Georgia;
+    font-size: 28px;
+    border: #3498db;
+}
+ 
+.content p:last-child {
+	margin: 0;
+}
+ 
+.content .continue-lendo {
+	color:#000;
+	transition: all 0.5s ease;
+	text-decoration: none;
+	font-weight: 700; 
+}
+ 
+.content .continue-lendo:hover {
+	margin-left:10px;
+}
+ 
